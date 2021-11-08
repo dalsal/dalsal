@@ -1,5 +1,5 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <h3 dir="auto"><a aria-hidden="true" class="anchor" href="#hi-there-im-mahmoud-ahmed-code4learncom-" id="user-content-hi-there-im-mahmoud-ahmed-code4learncom-"><svg class="octicon octicon-link" version="1.1" width="16" height="16" aria-hidden="true">
+    <h3 dir="auto"><a aria-hidden="true" class="anchor" href="#hi-there-im-faisal-alsalman-datalearns.com-" id="user-content-hi-there-im-faisal-alsalman-datalearns.com-"><svg class="octicon octicon-link" version="1.1" width="16" height="16" aria-hidden="true">
                 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
             </svg></a>Hi there, I&apos;m Mahmoud Ahmed [code4learn.com] 👋</h3>
     <h2 dir="auto"><a aria-hidden="true" class="anchor" href="#im-a-python-developer--instructor" id="user-content-im-a-python-developer--instructor"><svg class="octicon octicon-link" version="1.1" width="16" height="16" aria-hidden="true">
@@ -9,7 +9,7 @@
         <li>🌱 I&rsquo;m currently learning Data Sciense &amp; AI 🤣</li>
         <li>👯 I&rsquo;m looking to collaborate with other content creators</li>
         <li>🥅 2021 Goals: Contribute more to Open Source projects &amp; Master Data Science</li>
-        <li>⚡ Fun fact: I love to draw and teach people</li>
+        <li>⚡ my rule: It's not difficult, but it's the first time you know it</li>
     </ul>
     <h3 dir="auto"><a aria-hidden="true" class="anchor" href="#connect-with-me" id="user-content-connect-with-me"><svg class="octicon octicon-link" version="1.1" width="16" height="16" aria-hidden="true">
                 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
