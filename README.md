@@ -2,5 +2,5 @@
     <li style="box-sizing: border-box;">🌱&nbsp;I&rsquo;m currently learning Data Sciense &amp; AI&nbsp;🤣</li>
     <li style="box-sizing: border-box; margin-top: 0.25em;">👯&nbsp;I&rsquo;m looking to collaborate with other content creators</li>
     <li style="box-sizing: border-box; margin-top: 0.25em;">🥅&nbsp;2021 Goals: Contribute more to Open Source projects &amp; Master Data Science</li>
-    <li style="box-sizing: border-box; margin-top: 0.25em;">⚡ Fun fact: I love to draw and teach people</li>
+    <li style="box-sizing: border-box; margin-top: 0.25em;">⚡ my rule: It's not difficult, but it's the first time you know it</li>
 </ul>
