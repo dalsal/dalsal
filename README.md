@@ -8,7 +8,7 @@
     <ul dir="auto">
         <li>🌱 I&rsquo;m currently learning Data Sciense &amp; AI 🤣</li>
         <li>👯 I&rsquo;m looking to collaborate with other content creators</li>
-        <li>🥅 2022 Goals: Contribute more to Open Source projects &amp; Master Data Science</li>
+        <li>🥅 2023 Goals: Contribute more to Open Source projects &amp; Master Data Science</li>
         <li>⚡ my rule: It's not difficult, but it's the first time you know it</li>
     </ul>
     <h3 dir="auto"><a aria-hidden="true" class="anchor" href="#connect-with-me" id="user-content-connect-with-me"><svg class="octicon octicon-link" version="1.1" width="16" height="16" aria-hidden="true">
